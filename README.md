@@ -24,5 +24,7 @@ Notebook src : https://www.kaggle.com/code/alperhakl/intel-image-classification/
 # Data Analysis
 
 ## Class Distribution with pie chart
+<img src="images/Ekran%20Alıntısı.JPG" alt="Ekran Alıntısı" width="400" />
+
 
 
