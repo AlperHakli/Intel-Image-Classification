@@ -6,7 +6,7 @@ In this notebook, we built a convolutional neural network model and applied data
 
 💡 I hope this project gave you useful insights and ideas for your own machine learning tasks!
 
-Database src :  </br>
+Database src : https://www.kaggle.com/datasets/puneet6060/intel-image-classification </br>
 Notebook src : https://www.kaggle.com/code/alperhakl/intel-image-classification/edit/run/238966363
 
 
